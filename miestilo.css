@@ -1,0 +1,47 @@
+body {
+    margin:0;
+    background-color: white;
+}
+header {
+    background-color: #362d2d;
+    padding: 3rem 2rem;
+}
+#titulo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50px;
+}
+.container {
+    width: 400px;
+    margin: 0 auto;
+}
+section article p {
+    color:gray
+}
+footer {
+    padding: 2rem 2rem;
+    background-color: #362d2d;
+}
+a:link {
+    color: blue
+}
+a:visited {
+    color:gray
+}
+a:hover {
+    color:yellow
+}
+a:active {
+    color:red
+}
+
+
+footer section {
+    float: right;
+}
+footer p {
+    font-size: 20px;
+    color:gray;
+    margin: 0;
+    
+}
